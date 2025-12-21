@@ -1,1 +1,14 @@
-.well-known/assetlinks.json
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uk.co.ghbluecollarai.app",
+      "sha256_cert_fingerprints": [
+        "42:4E:82:8F:06:D0:70:CE:AD:46:9C:65:12:89:EB:E1:E3:E2:6E:EB:21:16:DA:9F:67:A8:FE:1F:D3:96:D1"
+      ]
+    }
+  }
+]
