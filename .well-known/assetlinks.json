@@ -1,13 +1,11 @@
 [
   {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
+    "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "uk.co.ghbluecollarai.app",
+      "package_name": "uk.bluecollartradesai.app",
       "sha256_cert_fingerprints": [
-        "42:4E:82:8F:06:D0:70:CE:AD:46:9C:65:12:89:EB:E1:E3:E2:6E:EB:21:16:DA:9F:67:A8:FE:1F:D3:96:D1"
+        "57:D2:DD:65:AC:A2:92:39:D7:DB:5B:BC:33:37:DB:78:EF:17:C8:51:48:70:17:EC:BC:E9:0D:50:55:A2:C5:FE"
       ]
     }
   }
